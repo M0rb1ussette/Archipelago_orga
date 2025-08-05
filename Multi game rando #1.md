@@ -25,6 +25,8 @@
 - noita
 - Super Mario world
 - skyrim
+- sonic adventure 2
+- subnautica
 
 ***
 
@@ -53,18 +55,22 @@
 - Tunic 
 - Terraria
 
-#### Thomas
+#### Thomas :
 
 - Factorio
 - minecraft
 
-#### Esteban
+#### Esteban :
+
+- **Sonic adventure 2**
+- Subnautica
+- Minecraft
+- Tunic
+
+#### Phenx :
+- Pokemon
+
+#### Alice :
 
 
-#### Phenx
-
-
-#### Alice
-
-
-#### Corusu
+#### Corusu :
