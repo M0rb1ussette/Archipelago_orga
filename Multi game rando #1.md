@@ -71,6 +71,10 @@
 - Pokemon
 
 #### Alice :
-
+- Mario & Luigi: Superstar Saga
+- The Legend of Zelda: Ocarina of Time
+- The Legend of Zelda: The Wind Waker
+- Inscryption
+- Paper Mario : La Porte Millénaire (Non, il est pas dans la liste, mais je l'ai déjà setup une autre fois, normalement ca pose pas de soucis)
 
 #### Corusu :
